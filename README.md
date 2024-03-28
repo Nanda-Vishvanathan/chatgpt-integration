@@ -1,5 +1,8 @@
 # chatgpt-integration
 
+Project Idea:
+To design and develop an application that talk to chatGPT at the background and gives the answers to the user with some validations. To scope it out better.
+
 This is chatgpt-integration project
 
 To execute this project in your local, please do the following
