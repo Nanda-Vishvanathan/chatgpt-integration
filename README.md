@@ -5,15 +5,15 @@ This is chatgpt-integration project
 To execute this project in your local, please do the following
 
 Clone the project using 
-git clone
+**git clone**
 
 install python
 
 Create a virtual environment
-python -m venv openai-env
+**python -m venv openai-env**
 
 Install the OpenAI Python library
-pip install openai
+**pip install openai**
 
 Set up the API key
 
